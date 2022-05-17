@@ -6,17 +6,45 @@ b2bk@hotmail.fr
 
 ## 1. Créer un nuage de point avec des images
 
-Entre 50 et 200 images, trois cercles de différente hauteur autour de l'objet.
+Choisir un objet à échelle humaine, sans trop de miroir, de verre ou de textures réflechissantes ou trop lisses.
 
-Dans `Workflow` > Import folder
+Capturer entre 20 et 200 images, en faisant trois cercles à différentes hauteurs autour de l'objet.
 
-Dans `Alignement` > Align Images
+Les rassembler dans un dossier.
 
-Dans `Reconstruction` > Set reconstruction region, créer la box autour, puis Normal detail, puis Texture
+### Utiliser RealityCapture
 
-Simplifier si besoin puis re Texture
+![Screenshot du  TOP Point File In](./images/capture1.png)
 
-Sortir en .xyz
+Dans l'onglet `Workflow`, cliquer sur `Import folder` et sélectionner le dossier contenant les images de l'objet.
+
+Tout en haut à gauche de l'interface, sélectionner le mode deux colonnes pour voir d'un coté les images, et de l'autre la scène.
+
+![Screenshot du  TOP Point File In](./images/capture2.png)
+
+Aligner les images cliquant sur `Align Images` dans l'onglet `Alignement`, ce qui permet de voir apparaître un nuage de points plus ou moins brouillon.
+
+![Screenshot du  TOP Point File In](./images/capture4.png)
+
+Dans l'onglet `Reconstruction`, cliquer sur `Set Reconstruction Region` puis `Set Region Automatically` pour voir apparaître une boîte autour de l'objet dans le nuage de point.
+
+Grâce aux poignées, adapter la taille de la boîte au plus proche de l'objet.
+
+![Screenshot du  TOP Point File In](./images/capture3.png)
+
+Toujours dans `Reconstruction`, cliquer sur `Normal Detail` pour créer le modèle 3D.
+
+![Screenshot du  TOP Point File In](./images/capture5.png)
+
+Une fois que le modèle est généré, cliquer sur `Texture` pour appliquer la texture calculée avec toutes les images.s
+
+![Screenshot du  TOP Point File In](./images/capture6.png)
+
+Simplifier si besoin puis re appliquer la texture.
+
+Exporter en .xyz en retournant dans l'onglet `Alignement` puis en cliquant sur `Point Cloud`.
+
+![Screenshot du  TOP Point File In](./images/capture7.png)
 
 ## 2. Mettre le nuage dans TD
 
