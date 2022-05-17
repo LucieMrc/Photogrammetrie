@@ -42,7 +42,7 @@ Une fois que le modèle est généré, cliquer sur `Texture` pour appliquer la t
 
 Simplifier si besoin puis re appliquer la texture.
 
-Exporter en .xyz en retournant dans l'onglet `Alignement` puis en cliquant sur `Point Cloud`.
+Exporter en .xyz en cliquant sur `Mesh` dans la partie `Export`.
 
 ![Screenshot du  TOP Point File In](./images/capture7.png)
 
