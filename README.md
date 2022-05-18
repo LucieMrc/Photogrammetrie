@@ -12,7 +12,7 @@ Capturer entre 20 et 200 images, en faisant trois cercles à différentes hauteu
 
 Les rassembler dans un dossier.
 
-### Utiliser RealityCapture
+### En utilisant RealityCapture
 
 ![Screenshot de RealityCapture](./images/capture1.png)
 
@@ -45,6 +45,14 @@ Simplifier si besoin puis re appliquer la texture.
 Exporter en .xyz en cliquant sur `Mesh` dans la partie `Export`.
 
 ![Screenshot de RealityCapture](./images/capture7.png)
+
+### En utilisant Meshroom
+
+Faire glisser les images pour les charger dans Meshroom.
+
+Cliquer sur `Start` pour lancer la procédure.
+
+Le repasser par un logiciel type Blender pour sortir en .xyz.
 
 ## 2. Mettre le nuage dans TD
 
