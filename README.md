@@ -286,12 +286,26 @@ Après on ajoute un Constant pour faire monter sur Y ici (donc un peu de vert), 
 
 ![Screenshot du réseau](./images/screen49.png)
 
-Si on veux mettre le particle machin, on fait rentrer *position* et *couleur*, et sortir dans *position* et *couleur*.
+<!-- Si on veux mettre le particle machin, on fait rentrer *position* et *couleur*, et sortir dans *position* et *couleur*. -->
 
-Pour sortir une video, en sortie du out mettre un TOP Movie File Out.
-On décoche "Realtime" en haut à gauche de l'interface, on fait "Record" et au bout d’un moment on arrête le Record.
+## 3. Export
 
-Cocher autorotate dans archball dans la camera pour que la camera tourne autour.
+Pour sortir une video, placer un TOP Movie File Out en sortie du TOP Out.
+
+Décocher `Realtime` en haut à gauche de l'interface pour éviter les lags de calcul dans la vidéo.
+
+Dans Movie File Out, choisir le dossier où on exporte les vidéos, ainsi que le nom de la vidéo d'export, dans la case `File`.
+
+Passer `Record` en "On", et le repasser en "Off" pour arrêter l'enregistrement.
+
+![Screenshot du TOP Movie File Out](./images/screen50.png)
+
+La caméra Arcball permet de lancer une rotation automatique : il suffit de cocher `Auto rotate` dans l'onglet `Arcball`, et de lancer une petite rotation avec la souris.
+
+![Screenshot du TOP Camera](./images/screen51.png)
+
+![Screenshot de la rotation](./images/gif1.gif)
+
 
 
 
