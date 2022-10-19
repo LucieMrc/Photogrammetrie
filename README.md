@@ -1,10 +1,10 @@
 # Photogrammétrie
 
-Le but est de créer un nuage de points à partir de photos d'un objet ou d'une scène, et de manipuler ce nuage dans TouchDesigner.
+**Le but est de créer un nuage de points à partir de photos d'un objet ou d'une scène, et de manipuler ce nuage dans TouchDesigner.**
 
-Workshop @ Stéréolux
+<!--Workshop @ Stéréolux
 
-b2bk@hotmail.fr
+b2bk@hotmail.fr-->
 
 ## 1. Créer un nuage de point avec des images
 
