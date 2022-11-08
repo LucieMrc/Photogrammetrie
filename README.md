@@ -1,6 +1,6 @@
 # Photogrammétrie
 
-**Le but est de créer un nuage de points à partir de photos d'un objet ou d'une scène, et de manipuler ce nuage dans TouchDesigner.**
+**Ou comment créer un nuage de points à partir de photos d'un objet ou d'une scène, et de manipuler ce nuage dans TouchDesigner.**
 
 <!--Workshop @ Stéréolux
 
@@ -49,6 +49,8 @@ Simplifier si besoin puis re appliquer la texture.
 Exporter en .xyz en cliquant sur `Mesh` dans la partie `Export`.
 
 ![Screenshot de RealityCapture](./images/capture7.png)
+
+Pour aller + loin : [Reality Capture, mieux expliqué](https://rd.nytimes.com/projects/processing-and-aligning-3d-scenes).
 
 ### En utilisant Meshroom
 
