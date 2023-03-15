@@ -306,11 +306,20 @@ Passer `Record` en "On", et le repasser en "Off" pour arrêter l'enregistrement.
 
 ![Screenshot du TOP Movie File Out](./images/screen50.png)
 
-La caméra Arcball permet de lancer une rotation automatique : il suffit de cocher `Auto rotate` dans l'onglet `Arcball`, et de lancer une petite rotation avec la souris.
+*La caméra Arcball permet de lancer une rotation automatique : il suffit de cocher `Auto rotate` dans l'onglet `Arcball`, et de lancer une petite rotation avec la souris.*
+La caméra Arcball de la palette n'existe plus, il faut prendre la cameraViewport.
 
 ![Screenshot du TOP Camera](./images/screen51.png)
 
 ![Screenshot de la rotation](./images/gif1.gif)
+
+
+# Pour aller + loin
+
+- [Le tuto video de B2BK (EN)](https://www.youtube.com/watch?v=dF0sj_R7DJY&list=PL3D_1wmDUbtW75yGYxWHEScCiHIxPkyXX&index=1&ab_channel=B2BK)
+
+
+
 
 
 
