@@ -6,6 +6,21 @@
 
 b2bk@hotmail.fr-->
 
+## Sommaire
+
+* [1. Créer un nuage de point avec des images](#1-créer-un-nuage-de-point-avec-des-images)<br>
+    * [En utilisant RealityCapture](#en-utilisant-realitycapture)<br>
+    * [En utilisant Meshroom](#en-utilisant-meshroom)<br>
+* [2. Mettre le nuage dans TD](#3-animer)<br>
+* [3. Animer](#Surfaces-et-textures)<br>
+    * [L'éclatement en noise](#léclatement-en-noise)<br>
+    * [La vague](#La-vague)<br>
+    * [La limite](#La-limite)<br>
+    * [Le twist](#Le-twist)<br>
+    * [La souris](#la-souris)<br>
+* [4. Export](#4-export)<br>
+* [Pour aller + loin](#pour-aller--loin)<br>
+
 ## 1. Créer un nuage de point avec des images
 
 Choisir un objet à échelle humaine, sans trop de miroir, de verre ou de textures réflechissantes ou trop lisses.
@@ -122,7 +137,7 @@ En sortie du TOP Render, mettre un TOP Transform et cocher `Comp over background
 
 ![Screenshot du TOP Render](./images/screen14.png)
 
-## 2. Animer
+## 3. Animer
 ### L'éclatement en noise
 
 Pour pouvoir modifier les valeurs des points, en couleurs ou en position, on ajoute un TOP Point Transform en sortie du Point File In et en entrée du null *position*.
@@ -294,7 +309,7 @@ Après on ajoute un Constant pour faire monter sur Y ici (donc un peu de vert), 
 
 <!-- Si on veux mettre le particle machin, on fait rentrer *position* et *couleur*, et sortir dans *position* et *couleur*. -->
 
-## 3. Export
+## 4. Export
 
 Pour sortir une video, placer un TOP Movie File Out en sortie du TOP Out.
 
