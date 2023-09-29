@@ -333,6 +333,9 @@ La caméra Arcball de la palette n'existe plus, il faut prendre la cameraViewpor
 
 - [Le tuto video de B2BK (EN)](https://www.youtube.com/watch?v=dF0sj_R7DJY&list=PL3D_1wmDUbtW75yGYxWHEScCiHIxPkyXX&index=1&ab_channel=B2BK)
 
+- [Le tuto video de Owsley Wylyfyrd sur le scan de nuage de points avec l'application Polycam (EN)](https://www.youtube.com/watch?v=LXjfxJbTkn4&ab_channel=OwsleyWylyfyrd)
+
+
 
 
 
